@@ -1,0 +1,16 @@
+#include <iostream>
+
+using namespace std;
+// this program adds two integer
+int main()
+{
+    int x,y,z;
+    cout << "Enter first number: ";
+    cin >> x;
+    cout <<"Enter second number: ";
+    cin >> y;
+    z = x+y;
+    cout << "The sum is: "<<z;
+    return 0;
+    
+ }
