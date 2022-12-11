@@ -1,0 +1,9 @@
+Youngstown:44555
+Cleveland:44101
+Pittsburgh:15106
+Columbus:43004
+New York:10001
+Chicago:60007
+Los Angeles:90001
+Seattle:98101
+Miami:33101
